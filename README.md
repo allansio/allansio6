@@ -10,7 +10,7 @@ Meu nome é Allan
 
 allan.oliveira.junior@escola.pr.gov.br
 
-![descrição do GIF](https://tenor.com/bXv7g.gif)
+![um cara aleatorio](https://tenor.com/bXv7g.gif)
 
 
 
